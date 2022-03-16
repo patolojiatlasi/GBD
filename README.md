@@ -1,2 +1,2 @@
 # GBD
-Link to GBD Atlas Preparation
+[Link to GBD Atlas Preparation](https://patolojiatlasi--GBDAtlas.github.privpage.net)
